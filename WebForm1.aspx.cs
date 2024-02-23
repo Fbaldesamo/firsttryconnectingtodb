@@ -9,6 +9,7 @@ using System.Web.UI.WebControls;
 using System.Data.SqlClient;
 
 //nag lagay ako comment dito kase trip ko
+//nag lagay ulit nanaman
 using System.Data;
 
 namespace firsttryconnectingtodb
