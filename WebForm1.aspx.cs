@@ -7,6 +7,8 @@ using System.Web.UI.WebControls;
 
 //#add this using for sql purpose
 using System.Data.SqlClient;
+
+//nag lagay ako comment dito kase trip ko
 using System.Data;
 
 namespace firsttryconnectingtodb
